@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//去掉上半个球体 程序2
 public class QudiaoShangmian : MonoBehaviour
 {
     public VRTK.VRTK_SnapDropZone other;

@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//炮筒代码 程序6
 public class barrel : MonoBehaviour {
     public GameObject rocketemm;
     public Tutorialmain tutorial;

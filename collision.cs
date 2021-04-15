@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//这个应该是在替换星体？？？ 程序3
 public class collision : MonoBehaviour {
     public GameObject prefab;
     public Tutorialmain tutorial;
@@ -31,6 +32,7 @@ public class collision : MonoBehaviour {
             {
                 Transform xingti1 = transform.parent.GetChild(0);
                 Transform xingti2 = transform.parent.GetChild(1);
+                //这个if else没区别呀？？
             }
             
             foreach (Transform trans in xingti1)

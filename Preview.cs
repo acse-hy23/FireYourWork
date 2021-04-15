@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//预览 程序1
 public class Preview : MonoBehaviour {
     public VRTK.VRTK_SnapDropZone other;
     public GameObject firework1;
